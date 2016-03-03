@@ -3,11 +3,6 @@ If you don't know any better and use Windows, choose the windows 64bit installer
 If you get a warning message "The site ahead contains harmful programs", don't worry, just click 'details' and then 'visit this site'
 Run Anaconda installer with default settings.
 Open Anaconda by pressing the WIN key (the 'windows' key on your keyboard) and typing 'launcher'.
-Create a folder for the course, to which you download the ipynb files from our course site.
-Click the link here, and then save it as a file by right-click -> 'save as'
-Remove the '.txt' extension and save the file in your course folder.
-Double click the ipython_notebook.bat file
-Wait for the IPython notebook to open in your browser
-Click new and choose Python 3
-Click the top cell, enter: print("Hello AGCT!")
-Press shit+enter
+Press "launch" on iPython Notebook.
+Wait for the IPython notebook to open in your browser and browse to your folder.
+
