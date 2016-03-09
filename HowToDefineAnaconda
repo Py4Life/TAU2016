@@ -1,0 +1,8 @@
+Download Anaconda for python 3.5 https://www.continuum.io/downloads
+If you don't know any better and use Windows, choose the windows 64bit installer.
+If you get a warning message "The site ahead contains harmful programs", don't worry, just click 'details' and then 'visit this site'
+Run Anaconda installer with default settings.
+Open Anaconda by pressing the WIN key (the 'windows' key on your keyboard) and typing 'launcher'.
+Press "launch" on iPython Notebook.
+Wait for the IPython notebook to open in your browser and browse to your folder.
+
